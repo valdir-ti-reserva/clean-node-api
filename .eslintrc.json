@@ -10,6 +10,8 @@
     "@typescript-eslint/restrict-template-expressions": "off",
     // nao precisa retorna assim Promise.resolve(this.data)
     // pode retornar direto o this.data
-    "@typescript-eslint/return-await": "off"
+    "@typescript-eslint/return-await": "off",
+    "comma-spacing": "off",
+    "import/prefer-default-export": "off"
   }
 }
